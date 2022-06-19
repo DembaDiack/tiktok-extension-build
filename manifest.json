@@ -1,6 +1,6 @@
 {
-    "name": "Getting Started Example",
-    "description": "Build an Extension!",
+    "name": "Tiktok autoplay",
+    "description": "This extension will play the next tiktok video automaticaly.",
     "version": "1.0",
     "manifest_version": 3,
     "permissions": ["scripting", "activeTab","storage"],
@@ -8,8 +8,10 @@
       "service_worker": "main.js"
     },
     "host_permissions": ["https://www.tiktok.com/*"],
-    "action": {
-      "default_popup": "index.html"
+    "action" : {
+        "default_icon" : {
+          "32" : "svg.png"
+        }
     }
   }
   
