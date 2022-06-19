@@ -35,10 +35,10 @@ i get it i suck at explaining, but theres plenty of articles that explain this p
 
 <br>
 <hr>
-<h1 align="left">Hey Im Demba <a href="https://www.linkedin.com/in/demba-diack-18069a229/">Diack </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> - By the way</h1> 
+<h1 align="left">Hey Im <a href="https://www.linkedin.com/in/demba-diack-18069a229/">Demba Diack </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> - By the way</h1> 
 
 
-### A fullstack software engineer</a>
+### A fullstack software engineer, wanna talk work ? hit me up on linkedin 	:point_down: </a>
 
 <hr>
 
